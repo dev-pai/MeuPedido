@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     void lucas( ){
         System.out.println("teste");
     }
+    
+    void Pablo( ){
+        System.out.println("teste");
+    }
 }
